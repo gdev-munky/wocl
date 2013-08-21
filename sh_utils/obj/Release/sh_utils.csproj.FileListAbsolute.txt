@@ -1,0 +1,5 @@
+C:\_andrey\projects\WorldOfCubicLegends\sh_utils\obj\Release\sh_utils.csprojResolveAssemblyReference.cache
+C:\_andrey\projects\WorldOfCubicLegends\sh_utils\bin\Release\sh_utils.dll
+C:\_andrey\projects\WorldOfCubicLegends\sh_utils\bin\Release\sh_utils.pdb
+C:\_andrey\projects\WorldOfCubicLegends\sh_utils\obj\Release\sh_utils.dll
+C:\_andrey\projects\WorldOfCubicLegends\sh_utils\obj\Release\sh_utils.pdb

@@ -1,0 +1,7 @@
+C:\_andrey\projects\WorldOfCubicLegends\gfxengine\obj\Release\gfxengine.csprojResolveAssemblyReference.cache
+C:\_andrey\projects\WorldOfCubicLegends\gfxengine\bin\Release\gfxengine.dll
+C:\_andrey\projects\WorldOfCubicLegends\gfxengine\bin\Release\gfxengine.pdb
+C:\_andrey\projects\WorldOfCubicLegends\gfxengine\bin\Release\sh_utils.dll
+C:\_andrey\projects\WorldOfCubicLegends\gfxengine\bin\Release\sh_utils.pdb
+C:\_andrey\projects\WorldOfCubicLegends\gfxengine\obj\Release\gfxengine.dll
+C:\_andrey\projects\WorldOfCubicLegends\gfxengine\obj\Release\gfxengine.pdb
